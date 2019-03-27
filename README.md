@@ -1,4 +1,4 @@
-<p align="right">En | <a href="./docs/README-zh_cn.md">简</a> | <a href="./docs/README-zh_tw.md">繁</a></p>
+<p align="right">En | <a href="./docs/README-zh_cn.md">简</a> | <a href="./docs/README-zh_tw.md">繁</a> | <a href="./docs/README-fr_FR.md">Fr</a></p>
 
 <div align="center">
 
